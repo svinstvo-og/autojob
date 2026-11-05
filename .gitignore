@@ -1,0 +1,5 @@
+.env
+output/
+*.pdf
+autojob
+.DS_Store
